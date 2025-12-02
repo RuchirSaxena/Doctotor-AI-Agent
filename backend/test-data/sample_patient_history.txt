@@ -1,0 +1,61 @@
+PATIENT MEDICAL HISTORY
+======================
+
+Patient Information:
+- Name: John Doe
+- Age: 45 years
+- Gender: Male
+- Date of Birth: January 15, 1979
+- Medical Record Number: MRN-123456
+
+Chief Complaints:
+- Persistent fatigue for the past 3 months
+- Occasional chest discomfort
+- Shortness of breath during physical activity
+
+Medical History:
+- Type 2 Diabetes Mellitus (diagnosed 2015)
+- Hypertension (diagnosed 2017)
+- Hyperlipidemia (diagnosed 2018)
+- History of smoking (quit 2 years ago, 20-pack-year history)
+
+Current Medications:
+1. Metformin 1000mg - twice daily
+2. Lisinopril 20mg - once daily
+3. Atorvastatin 40mg - once daily at bedtime
+4. Aspirin 81mg - once daily
+
+Allergies:
+- Penicillin (causes rash)
+- No known food allergies
+
+Family History:
+- Father: Coronary artery disease, died at age 62
+- Mother: Type 2 Diabetes, Hypertension (living)
+- Siblings: One brother with hypertension
+
+Social History:
+- Occupation: Software Engineer (sedentary job)
+- Exercise: Minimal physical activity
+- Diet: High carbohydrate, irregular meal times
+- Alcohol: Social drinker (2-3 drinks per week)
+- Tobacco: Former smoker (quit 2 years ago)
+
+Recent Vital Signs (Last Visit - 3 weeks ago):
+- Blood Pressure: 145/92 mmHg
+- Heart Rate: 82 bpm
+- BMI: 29.5 (overweight)
+- Weight: 185 lbs
+- Height: 5'9"
+
+Clinical Notes:
+Patient presents with concerns about persistent fatigue and occasional chest discomfort.
+Blood pressure is elevated despite current medication. Patient admits to poor medication
+compliance and irregular eating habits due to work stress. Recommended lifestyle modifications
+and scheduled for comprehensive metabolic panel and cardiac stress test.
+
+Follow-up Plan:
+- Schedule cardiac stress test
+- Complete blood work including HbA1c, lipid panel
+- Dietary consultation
+- Follow-up in 4 weeks

@@ -1,0 +1,93 @@
+PRESCRIPTION RECORD
+===================
+
+Patient: John Doe
+MRN: MRN-123456
+Date: November 20, 2024
+Prescribing Physician: Dr. Sarah Mitchell, MD
+
+ACTIVE MEDICATIONS
+------------------
+
+1. METFORMIN 1000mg
+   - Form: Tablet, Extended Release
+   - Dosage: 1000mg twice daily with meals
+   - Indication: Type 2 Diabetes Mellitus
+   - Start Date: March 2015
+   - Refills: 3
+   - Instructions: Take one tablet with breakfast and one with dinner
+   - Special Notes: May cause GI upset; take with food
+
+2. LISINOPRIL 20mg
+   - Form: Tablet
+   - Dosage: 20mg once daily
+   - Indication: Hypertension
+   - Start Date: June 2017
+   - Refills: 3
+   - Instructions: Take in the morning
+   - Special Notes: Monitor blood pressure regularly; avoid potassium supplements
+
+3. ATORVASTATIN 40mg
+   - Form: Tablet
+   - Dosage: 40mg once daily at bedtime
+   - Indication: Hyperlipidemia, Cardiovascular risk reduction
+   - Start Date: January 2018
+   - Refills: 3
+   - Instructions: Take at bedtime
+   - Special Notes: Report muscle pain or weakness immediately
+
+4. ASPIRIN 81mg (LOW DOSE)
+   - Form: Tablet, Enteric Coated
+   - Dosage: 81mg once daily
+   - Indication: Cardiovascular prophylaxis
+   - Start Date: January 2018
+   - Refills: 6
+   - Instructions: Take with food
+   - Special Notes: Do not discontinue without consulting physician
+
+RECENTLY ADJUSTED MEDICATIONS (New/Changed)
+--------------------------------------------
+
+5. EMPAGLIFLOZIN 10mg (NEW - Added today)
+   - Form: Tablet
+   - Dosage: 10mg once daily
+   - Indication: Type 2 Diabetes (adjunct to Metformin), Cardiovascular protection
+   - Start Date: November 20, 2024
+   - Refills: 3
+   - Instructions: Take in the morning with or without food
+   - Special Notes: Stay well hydrated; monitor for signs of UTI
+
+DISCONTINUED MEDICATIONS
+------------------------
+None at this time
+
+MEDICATION COMPLIANCE NOTES
+----------------------------
+- Patient reports occasionally missing evening Metformin dose
+- Blood pressure medication taken regularly
+- Statin compliance good but requests bedtime reminder
+- New medication (Empagliflozin) prescribed to improve glycemic control
+
+PHARMACIST COUNSELING POINTS
+-----------------------------
+1. Importance of medication adherence for diabetes management
+2. Set phone reminders for evening Metformin dose
+3. New medication (Empagliflozin) may cause increased urination
+4. Maintain adequate hydration
+5. Continue home blood glucose monitoring
+6. Report any unusual symptoms immediately
+
+FOLLOW-UP PLAN
+--------------
+- Schedule appointment in 4 weeks to assess response to new medication
+- Bring blood glucose log to next visit
+- Continue current dietary modifications
+- Lipid panel and HbA1c in 3 months
+
+Next Scheduled Appointment: December 18, 2024
+
+Emergency Contact: (555) 123-4567
+Pharmacy: HealthCare Pharmacy, 123 Main St.
+
+Electronically Signed by: Dr. Sarah Mitchell, MD
+Date/Time: November 20, 2024 10:45 AM

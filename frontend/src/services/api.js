@@ -1,6 +1,7 @@
 import axios from 'axios';
 
-const API_BASE_URL = 'http://localhost:5000/api';
+// Use environment variable for API URL, fallback to localhost for development
+const API_BASE_URL = process.env.REACT_APP_API_URL || 'http://localhost:5000/api';
 
 const api = axios.create({
   baseURL: API_BASE_URL,
@@ -76,7 +77,10 @@ export const getConversation = async (conversationId) => {
  * Health check
  */
 export const healthCheck = async () => {
-  const response = await axios.get('http://localhost:5000/health');
+  const healthUrl = process.env.REACT_APP_API_URL
+    ? process.env.REACT_APP_API_URL.replace('/api', '/health')
+    : 'http://localhost:5000/health';
+  const response = await axios.get(healthUrl);
   return response.data;
 };
 

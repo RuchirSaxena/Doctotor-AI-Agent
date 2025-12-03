@@ -126,14 +126,22 @@ After deployment, you need to update the frontend to use the Vercel backend URL:
 - Go to Settings → Environment Variables → Add your key
 - Redeploy the project
 
+### Issue: "npm run build" exited with 1
+- **Solution**: This usually means the build failed
+- Check if all frontend dependencies are properly listed in `frontend/package.json`
+- Make sure the `vercel-build` script exists in root `package.json`
+- Check Vercel build logs for specific error details
+
 ### Issue: API routes return 404
 - **Solution**: Check that `vercel.json` is properly configured
 - The routes section should redirect `/api/*` to the backend
+- Make sure `api/index.js` exists and exports the Express app
 
 ### Issue: File upload fails
 - **Solution**: Vercel has limitations on file uploads in serverless functions
 - Maximum request body size is 4.5MB on free plan
 - Consider using external storage (S3, Cloudinary) for larger files
+- The current implementation uses local file storage which has limitations on Vercel
 
 ### Issue: Function timeout
 - **Solution**: Increase the function timeout in `vercel.json`

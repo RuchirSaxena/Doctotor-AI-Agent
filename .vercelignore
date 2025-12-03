@@ -1,2 +1,2 @@
-backend
+# Only ignore node_modules
 node_modules

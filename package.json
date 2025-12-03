@@ -4,11 +4,6 @@
   "description": "Doctor AI Agent - Medical Document Analysis System",
   "private": true,
   "scripts": {
-    "vercel-build": "cd frontend && npm install && npm run build",
-    "start": "node backend/server.js"
-  },
-  "workspaces": [
-    "frontend",
-    "backend"
-  ]
+    "vercel-build": "cd frontend && npm install && npm run build"
+  }
 }
